@@ -21,4 +21,4 @@ Mehak is a second year Cyber Security student at Maryville University.
 
 **Tegan**
 
-
+Tegan is a first year Cyber Security student at Maryville University.
