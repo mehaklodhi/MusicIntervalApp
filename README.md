@@ -15,8 +15,10 @@ This app will enable people to show case their ear training skills by playing a 
 
 
 **Mehak**
-helloooooooo
+
+Mehak is a second year Cyber Security student at Maryville University. 
 
 
-**Tegan Chin**
-Tegan is a first year at student at Maryville.
+**Tegan**
+
+
