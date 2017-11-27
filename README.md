@@ -18,6 +18,5 @@ This app will enable people to show case their ear training skills by playing a 
 helloooooooo
 
 
-**Tegan**
-
-
+**Tegan Chin**
+Tegan is a first year at student at Maryville.
