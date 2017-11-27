@@ -19,6 +19,6 @@ This app will enable people to show case their ear training skills by playing a 
 Mehak is a second year Cyber Security student at Maryville University. 
 
 
-**Tegan**
+**Tegan Chin**
 
 Tegan is a first year Cyber Security student at Maryville University.
